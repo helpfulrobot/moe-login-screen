@@ -27,6 +27,4 @@ class LoginScreenSiteConfig extends DataExtension
             UploadField::create('LoginLogo', 'Company Logo'),
         ));
     }
-
 }
-
